@@ -541,7 +541,7 @@ export default function Hero() {
         className="order-1 overflow-hidden rounded-lg shadow-xl md:order-2"
       >
         <img
-          src="/images/Environment/waste-sorting.jpg"
+          src="/images/environment/waste-sorting.jpg"
           alt="Waste Sorting"
           className="object-cover w-full h-[300px] sm:h-[400px] transition duration-500 hover:scale-105"
         />
