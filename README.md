@@ -1,4 +1,4 @@
-<img width="2843" height="1389" alt="Screenshot 2026-08-08 203629" src="https://github.com/user-attachments/assets/4d5fae57-7454-4eb3-bc56-de083b91e189" />This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
